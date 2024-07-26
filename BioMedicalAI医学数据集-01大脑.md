@@ -1,5 +1,7 @@
 # BioMedicalAI医学数据集-01大脑
 
+​		医学AI助力疾病预测，识别，诊断，干预，治疗前规划，治疗中引导，治疗后疗效评估，生存期预测，涉及影像组学、病理组学、生信分析和电生理等等技术。BioMedicalAI一个专注于AI+医学的开源学习组织，汇聚了众多医学AI项目的探索者，有一作发表nature的大牛、高校医学AI算法青年老师、大厂AI算法研究员、算法工程师、临床医生等等，取长补短，互相学习。和探索者一起成长，for the ai project learner!		
+
 ​		BioMedicalAI开源学习组织梳理、收集医学AI数据集，开源并供广大医学AI learner使用。主要包括大脑、心脏、肝癌、肺癌、结直肠癌、乳腺癌、甲状腺癌、肾癌、前列腺癌、宫颈癌等等。
 
 ​		目前，梳理了相当详细的大脑相关数据集。大脑数据集里有影像组学，病理组学，基因组学，转录组学，代谢组学，蛋白组学，单细胞，斑马鱼荧光显像，数据类型涉及图像，时间序列，文本，语音，纯数值等，深度学习、机器学习结合这些大脑相关数据集，再也不用愁没有米下锅，没有数据集用来训练了。后续会持续梳理出其他身体部位的医学AI数据集。由于涉及到大脑脑电相关数据集，单独将脑电数据集梳理。
@@ -689,7 +691,3 @@ http://nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro.html
 11、https://figshare.com/articles/MAMEM_EEG_SSVEP_Dataset_III_14_channels_11_subjects_5_frequencies_presented_simultaneously_/3413851
 
 12、https://NEMAR.org about 200 BIDS formatted MEEG experiments
-
-​		医学AI助力疾病预测，识别，诊断，干预，治疗前规划，治疗中引导，治疗后疗效评估，生存期预测，涉及影像组学、病理组学、生信分析和电生理等等技术。BioMedicalAI一个专注于AI+医学的开源学习组织，汇聚了众多医学AI项目的探索者，有一作发表nature的大牛、高校医学AI算法青年老师、大厂AI算法研究员、算法工程师、临床医生等等，取长补短，互相学习。和探索者一起成长，for the ai project learner!
-
-![444](C:\Users\SJ\Desktop\02推文\444.png)
